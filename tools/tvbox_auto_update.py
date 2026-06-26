@@ -58,53 +58,53 @@ CANDIDATE_APIS = [
 CANDIDATE_JSPY = [
     {
         'name': '采集之王',
-        'api': 'https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/drpy2.min.js',
-        'ext': 'https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/采集之王.js?type=url¶ms=https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/json/采集静态.json'
+        'api': './lib/drpy2.min.js',
+        'ext': './js/采集之王.js?type=url&params=./json/采集静态.json'
     },
     {
         'name': '量子',
-        'api': 'https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/drpy2.min.js',
-        'ext': 'https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/量子.js'
+        'api': './lib/drpy2.min.js',
+        'ext': './js/量子.js'
     },
     {
         'name': '索尼',
-        'api': 'https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/drpy2.min.js',
-        'ext': 'https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/索尼.js'
+        'api': './lib/drpy2.min.js',
+        'ext': './js/索尼.js'
     },
     {
         'name': '暴风',
-        'api': 'https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/drpy2.min.js',
-        'ext': 'https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/暴风.js'
+        'api': './lib/drpy2.min.js',
+        'ext': './js/暴风.js'
     },
     {
         'name': '闪电',
-        'api': 'https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/drpy2.min.js',
-        'ext': 'https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/闪电.js'
+        'api': './lib/drpy2.min.js',
+        'ext': './js/闪电.js'
     },
     {
         'name': '光速',
-        'api': 'https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/drpy2.min.js',
-        'ext': 'https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/光速.js'
+        'api': './lib/drpy2.min.js',
+        'ext': './js/光速.js'
     },
     {
         'name': '极速',
-        'api': 'https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/drpy2.min.js',
-        'ext': 'https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/极速.js'
+        'api': './lib/drpy2.min.js',
+        'ext': './js/极速.js'
     },
     {
         'name': '红牛',
-        'api': 'https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/drpy2.min.js',
-        'ext': 'https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/红牛.js'
+        'api': './lib/drpy2.min.js',
+        'ext': './js/红牛.js'
     },
     {
         'name': '无尽',
-        'api': 'https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/drpy2.min.js',
-        'ext': 'https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/无尽.js'
+        'api': './lib/drpy2.min.js',
+        'ext': './js/无尽.js'
     },
     {
         'name': '金鹰',
-        'api': 'https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/drpy2.min.js',
-        'ext': 'https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/金鹰.js'
+        'api': './lib/drpy2.min.js',
+        'ext': './js/金鹰.js'
     },
 ]
 
@@ -210,21 +210,35 @@ def test_api_full(name, url):
 
 def test_jspy_url(name, api_url, ext_url):
     """测试JS/PY源URL是否可访问"""
-    # 测试api URL
+    # 相对路径格式（./lib/drpy2.min.js, ./js/xxx.js）
+    # 这种格式依赖spider JAR加载，只要格式正确就认为可用
+    if api_url.startswith('./') and ext_url.startswith('./'):
+        return {'name': name, 'api': api_url, 'ext': ext_url, 'score': 100}
+    
+    # 绝对URL格式，需要测试可访问性
+    base_url = 'https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main'
+    
+    test_api = api_url
+    if api_url.startswith('./'):
+        test_api = f'{base_url}/{api_url[2:]}'
+    
+    test_ext = ext_url
+    if ext_url.startswith('./'):
+        test_ext = f'{base_url}/{ext_url[2:]}'
+    
     api_ok = False
     try:
         r = subprocess.run(['curl', '-sL', '-o', '/dev/null', '-w', '%{http_code}', 
-                           '--max-time', '8', api_url],
+                           '--max-time', '8', test_api],
                           capture_output=True, text=True, timeout=12)
         api_ok = r.stdout.strip() in ['200', '301', '302']
     except:
         pass
     
-    # 测试ext URL
     ext_ok = False
     try:
         r = subprocess.run(['curl', '-sL', '-o', '/dev/null', '-w', '%{http_code}', 
-                           '--max-time', '8', ext_url],
+                           '--max-time', '8', test_ext],
                           capture_output=True, text=True, timeout=12)
         ext_ok = r.stdout.strip() in ['200', '301', '302']
     except:
