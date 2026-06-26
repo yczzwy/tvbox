@@ -267,7 +267,7 @@
   {
    "name": "央视卫视(iptv-org)",
    "type": 0,
-   "url": "https://iptv-org.github.io/iptv/index.country.m3u",
+   "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yczzwy/tvbox/main/live_cctv_weishi.txt",
    "playerType": 2
   },
   {
