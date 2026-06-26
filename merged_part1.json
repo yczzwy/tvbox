@@ -4,81 +4,74 @@
  "logo": "https://sgmao.serv00.net/image/logo.gif",
  "sites": [
   {
-   "key": "🐢采集｜合集",
-   "name": "🐢采集｜合集",
-   "type": 3,
-   "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/drpy2.min.js",
-   "ext": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/采集之王.js?type=url¶ms=https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/json/采集静态.json"
-  },
-  {
    "key": "采集之王",
    "name": "采集之王",
    "type": 3,
-   "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/drpy2.min.js",
-   "ext": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/采集之王.js?type=url¶ms=https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/json/采集静态.json"
+   "api": "./lib/drpy2.min.js",
+   "ext": "./js/采集之王.js?type=url&params=./json/采集静态.json"
   },
   {
    "key": "量子",
    "name": "量子",
    "type": 3,
-   "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/drpy2.min.js",
-   "ext": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/量子.js"
+   "api": "./lib/drpy2.min.js",
+   "ext": "./js/量子.js"
   },
   {
    "key": "索尼",
    "name": "索尼",
    "type": 3,
-   "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/drpy2.min.js",
-   "ext": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/索尼.js"
+   "api": "./lib/drpy2.min.js",
+   "ext": "./js/索尼.js"
   },
   {
    "key": "暴风",
    "name": "暴风",
    "type": 3,
-   "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/drpy2.min.js",
-   "ext": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/暴风.js"
+   "api": "./lib/drpy2.min.js",
+   "ext": "./js/暴风.js"
   },
   {
    "key": "闪电",
    "name": "闪电",
    "type": 3,
-   "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/drpy2.min.js",
-   "ext": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/闪电.js"
+   "api": "./lib/drpy2.min.js",
+   "ext": "./js/闪电.js"
   },
   {
    "key": "光速",
    "name": "光速",
    "type": 3,
-   "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/drpy2.min.js",
-   "ext": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/光速.js"
+   "api": "./lib/drpy2.min.js",
+   "ext": "./js/光速.js"
   },
   {
    "key": "极速",
    "name": "极速",
    "type": 3,
-   "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/drpy2.min.js",
-   "ext": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/极速.js"
+   "api": "./lib/drpy2.min.js",
+   "ext": "./js/极速.js"
   },
   {
    "key": "红牛",
    "name": "红牛",
    "type": 3,
-   "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/drpy2.min.js",
-   "ext": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/红牛.js"
+   "api": "./lib/drpy2.min.js",
+   "ext": "./js/红牛.js"
   },
   {
    "key": "无尽",
    "name": "无尽",
    "type": 3,
-   "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/drpy2.min.js",
-   "ext": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/无尽.js"
+   "api": "./lib/drpy2.min.js",
+   "ext": "./js/无尽.js"
   },
   {
    "key": "金鹰",
    "name": "金鹰",
    "type": 3,
-   "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/drpy2.min.js",
-   "ext": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/金鹰.js"
+   "api": "./lib/drpy2.min.js",
+   "ext": "./js/金鹰.js"
   },
   {
    "key": "api_0",
@@ -145,15 +138,6 @@
   },
   {
    "key": "api_7",
-   "name": "暴风采集",
-   "type": 1,
-   "api": "http://by.bfzyapi.com/api.php/provide/vod",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "api_8",
    "name": "wsyzy采集",
    "type": 1,
    "api": "https://api.wsyzy.net/api.php/provide/vod",
@@ -162,7 +146,7 @@
    "filterable": 1
   },
   {
-   "key": "api_9",
+   "key": "api_8",
    "name": "索尼旧",
    "type": 1,
    "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8",
@@ -171,7 +155,7 @@
    "filterable": 1
   },
   {
-   "key": "api_10",
+   "key": "api_9",
    "name": "lbapi采集",
    "type": 1,
    "api": "https://lbapi9.com/api.php/provide/vod",
@@ -180,7 +164,7 @@
    "filterable": 1
   },
   {
-   "key": "api_11",
+   "key": "api_10",
    "name": "fhapi采集",
    "type": 1,
    "api": "http://fhapi9.com/api.php/provide/vod",
@@ -189,7 +173,7 @@
    "filterable": 1
   },
   {
-   "key": "api_12",
+   "key": "api_11",
    "name": "魔都采集",
    "type": 1,
    "api": "https://caiji.moduapi.cc/api.php/provide/vod",
@@ -198,7 +182,7 @@
    "filterable": 1
   },
   {
-   "key": "api_13",
+   "key": "api_12",
    "name": "iQIYI采集",
    "type": 1,
    "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
@@ -207,7 +191,7 @@
    "filterable": 1
   },
   {
-   "key": "api_14",
+   "key": "api_13",
    "name": "艾旦采集",
    "type": 1,
    "api": "https://www.lovedan.net/api.php/provide/vod",
@@ -216,7 +200,7 @@
    "filterable": 1
   },
   {
-   "key": "api_15",
+   "key": "api_14",
    "name": "快车采集",
    "type": 1,
    "api": "https://caiji.kuaichezy.org/api.php/provide/vod",
@@ -225,7 +209,7 @@
    "filterable": 1
   },
   {
-   "key": "api_16",
+   "key": "api_15",
    "name": "最大采集",
    "type": 1,
    "api": "https://zuida.xyz/api.php/provide/vod",
@@ -234,7 +218,7 @@
    "filterable": 1
   },
   {
-   "key": "api_17",
+   "key": "api_16",
    "name": "牛牛采集",
    "type": 1,
    "api": "https://api.niuniuzy.me/api.php/provide/vod",
@@ -243,7 +227,7 @@
    "filterable": 1
   },
   {
-   "key": "api_18",
+   "key": "api_17",
    "name": "闪电采集",
    "type": 1,
    "api": "https://sdzyapi.com/api.php/provide/vod",
@@ -252,7 +236,7 @@
    "filterable": 1
   },
   {
-   "key": "api_19",
+   "key": "api_18",
    "name": "丫丫采集",
    "type": 1,
    "api": "https://yayazy2.com/api.php/provide/vod",
@@ -261,10 +245,19 @@
    "filterable": 1
   },
   {
-   "key": "api_20",
+   "key": "api_19",
    "name": "无尽采集",
    "type": 1,
    "api": "https://api.wujinapi.net/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "api_20",
+   "name": "光速采集",
+   "type": 1,
+   "api": "https://api.guangsuapi.com/api.php/provide/vod/",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
