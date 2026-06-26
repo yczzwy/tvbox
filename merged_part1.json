@@ -3,77 +3,7 @@
  "wallpaper": "https://sgmao.serv00.net/image/",
  "logo": "https://sgmao.serv00.net/image/logo.gif",
  "sites": [
-  {
-   "key": "采集之王",
-   "name": "采集之王",
-   "type": 3,
-   "api": "./lib/drpy2.min.js",
-   "ext": "./js/采集之王.js?type=url&params=./json/采集静态.json"
-  },
-  {
-   "key": "量子",
-   "name": "量子",
-   "type": 3,
-   "api": "./lib/drpy2.min.js",
-   "ext": "./js/量子.js"
-  },
-  {
-   "key": "索尼",
-   "name": "索尼",
-   "type": 3,
-   "api": "./lib/drpy2.min.js",
-   "ext": "./js/索尼.js"
-  },
-  {
-   "key": "暴风",
-   "name": "暴风",
-   "type": 3,
-   "api": "./lib/drpy2.min.js",
-   "ext": "./js/暴风.js"
-  },
-  {
-   "key": "闪电",
-   "name": "闪电",
-   "type": 3,
-   "api": "./lib/drpy2.min.js",
-   "ext": "./js/闪电.js"
-  },
-  {
-   "key": "光速",
-   "name": "光速",
-   "type": 3,
-   "api": "./lib/drpy2.min.js",
-   "ext": "./js/光速.js"
-  },
-  {
-   "key": "极速",
-   "name": "极速",
-   "type": 3,
-   "api": "./lib/drpy2.min.js",
-   "ext": "./js/极速.js"
-  },
-  {
-   "key": "红牛",
-   "name": "红牛",
-   "type": 3,
-   "api": "./lib/drpy2.min.js",
-   "ext": "./js/红牛.js"
-  },
-  {
-   "key": "无尽",
-   "name": "无尽",
-   "type": 3,
-   "api": "./lib/drpy2.min.js",
-   "ext": "./js/无尽.js"
-  },
-  {
-   "key": "金鹰",
-   "name": "金鹰",
-   "type": 3,
-   "api": "./lib/drpy2.min.js",
-   "ext": "./js/金鹰.js"
-  },
-  {
+   {
    "key": "api_0",
    "name": "三六资源",
    "type": 1,
@@ -81,6 +11,69 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
+  },
+  {
+   "key": "360影视",
+   "name": "360影视",
+   "type": 3,
+   "api": "./libs/js/drpy2.min.js",
+   "ext": "./libs/js/360影视.js"
+  },
+  {
+   "key": "大师兄影视",
+   "name": "大师兄影视",
+   "type": 3,
+   "api": "./libs/js/drpy2.min.js",
+   "ext": "./libs/js/大师兄影视.js"
+  },
+  {
+   "key": "电影先生",
+   "name": "电影先生",
+   "type": 3,
+   "api": "./libs/js/drpy2.min.js",
+   "ext": "./libs/js/电影先生.js"
+  },
+  {
+   "key": "豆瓣",
+   "name": "豆瓣",
+   "type": 3,
+   "api": "./libs/js/drpy2.min.js",
+   "ext": "./libs/js/豆瓣.js"
+  },
+  {
+   "key": "爱看",
+   "name": "爱看",
+   "type": 3,
+   "api": "./libs/js/drpy2.min.js",
+   "ext": "./libs/js/爱看.js"
+  },
+  {
+   "key": "荐片",
+   "name": "荐片",
+   "type": 3,
+   "api": "./libs/js/drpy2.min.js",
+   "ext": "./libs/js/荐片.js"
+  },
+  {
+   "key": "奇优",
+   "name": "奇优",
+   "type": 3,
+   "api": "./libs/js/drpy2.min.js",
+   "ext": "./libs/js/奇优.js"
+  },
+  {
+   "key": "影探",
+   "name": "影探",
+   "type": 3,
+   "api": "./libs/js/drpy2.min.js",
+   "ext": "./libs/js/影探.js"
+  },
+  {
+   "key": "采集之王",
+   "name": "采集之王",
+   "type": 3,
+   "api": "./js/drpy2.min.js",
+   "ext": "./js/采集之王.js?type=url&params=./json/采集静态.json"
   },
   {
    "key": "api_1",
