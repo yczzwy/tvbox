@@ -54,58 +54,17 @@ CANDIDATE_APIS = [
     ("iQIYI采集", "https://www.iqiyizyapi.com/api.php/provide/vod/?ac=list"),
 ]
 
-# 候选JS/PY非采集源（drpy格式）
+# 候选JS/PY非采集源（drpy格式，使用liu673cn/box仓库）
 CANDIDATE_JSPY = [
-    {
-        'name': '采集之王',
-        'api': './lib/drpy2.min.js',
-        'ext': './js/采集之王.js?type=url&params=./json/采集静态.json'
-    },
-    {
-        'name': '量子',
-        'api': './lib/drpy2.min.js',
-        'ext': './js/量子.js'
-    },
-    {
-        'name': '索尼',
-        'api': './lib/drpy2.min.js',
-        'ext': './js/索尼.js'
-    },
-    {
-        'name': '暴风',
-        'api': './lib/drpy2.min.js',
-        'ext': './js/暴风.js'
-    },
-    {
-        'name': '闪电',
-        'api': './lib/drpy2.min.js',
-        'ext': './js/闪电.js'
-    },
-    {
-        'name': '光速',
-        'api': './lib/drpy2.min.js',
-        'ext': './js/光速.js'
-    },
-    {
-        'name': '极速',
-        'api': './lib/drpy2.min.js',
-        'ext': './js/极速.js'
-    },
-    {
-        'name': '红牛',
-        'api': './lib/drpy2.min.js',
-        'ext': './js/红牛.js'
-    },
-    {
-        'name': '无尽',
-        'api': './lib/drpy2.min.js',
-        'ext': './js/无尽.js'
-    },
-    {
-        'name': '金鹰',
-        'api': './lib/drpy2.min.js',
-        'ext': './js/金鹰.js'
-    },
+    {"name": "360影视", "api": "./libs/js/drpy2.min.js", "ext": "./libs/js/360影视.js"},
+    {"name": "大师兄影视", "api": "./libs/js/drpy2.min.js", "ext": "./libs/js/大师兄影视.js"},
+    {"name": "电影先生", "api": "./libs/js/drpy2.min.js", "ext": "./libs/js/电影先生.js"},
+    {"name": "豆瓣", "api": "./libs/js/drpy2.min.js", "ext": "./libs/js/豆瓣.js"},
+    {"name": "爱看", "api": "./libs/js/drpy2.min.js", "ext": "./libs/js/爱看.js"},
+    {"name": "荐片", "api": "./libs/js/drpy2.min.js", "ext": "./libs/js/荐片.js"},
+    {"name": "奇优", "api": "./libs/js/drpy2.min.js", "ext": "./libs/js/奇优.js"},
+    {"name": "影探", "api": "./libs/js/drpy2.min.js", "ext": "./libs/js/影探.js"},
+    {"name": "采集之王", "api": "./js/drpy2.min.js", "ext": "./js/采集之王.js?type=url&params=./json/采集静态.json"},
 ]
 
 # 候选直播源
