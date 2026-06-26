@@ -273,13 +273,13 @@
   {
    "name": "央视卫视(io365)",
    "type": 0,
-   "url": "https://raw.githubusercontent.com/yczzwy/tvbox/main/live_io365.txt",
+   "url": "https://raw.giteeusercontent.com/bochaibo/tvbox/raw/master/live_io365.txt",
    "playerType": 2
   },
   {
    "name": "综合直播(咪咕)",
    "type": 0,
-   "url": "https://raw.githubusercontent.com/yczzwy/tvbox/main/live_migu.txt",
+   "url": "https://raw.giteeusercontent.com/bochaibo/tvbox/raw/master/live_migu.txt",
    "playerType": 2,
    "ua": "okhttp/3"
   },
