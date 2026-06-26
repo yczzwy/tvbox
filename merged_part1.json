@@ -4,6 +4,15 @@
  "logo": "https://sgmao.serv00.net/image/logo.gif",
  "sites": [
   {
+   "key": "api_0",
+   "name": "三六资源",
+   "type": 1,
+   "api": "https://360zy.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
    "key": "csp_AppRJ",
    "name": "💡热播｜影视",
    "type": 3,
@@ -27,7 +36,6 @@
      "https://ogkk.nxog.fun",
      "https://ogkk.nxog.eu.org",
      "https://ogkk.430520.xyz",
-     "https://ogkk.装歌.de5.net",
      "https://woog.430520.xyz"
     ],
     "url_key": "woog2",
@@ -45,20 +53,33 @@
    "ext": "https://vip.wwgz.cn:5200"
   },
   {
+   "key": "csp_66影视",
+   "name": "66影视",
+   "type": 3,
+   "api": "csp_Bili",
+   "ext": "https://www.66zhang.com"
+  },
+  {
+   "key": "csp_LIBV",
+   "name": "LIBV影视",
+   "type": 3,
+   "api": "csp_PadPaw",
+   "searchable": 1,
+   "ext": "https://www.libvio.fun"
+  },
+  {
+   "key": "csp_DY1990",
+   "name": "电影天堂",
+   "type": 3,
+   "api": "csp_DY1990",
+   "ext": "https://www.dy1990.com"
+  },
+  {
    "key": "采集之王",
    "name": "🐢采集｜合集",
    "type": 3,
    "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/drpy2.min.js",
    "ext": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/采集之王.js?type=url&params=https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/json/采集静态.json"
-  },
-  {
-   "key": "api_0",
-   "name": "三六资源",
-   "type": 1,
-   "api": "https://360zy.com/api.php/provide/vod",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
   },
   {
    "key": "api_1",
