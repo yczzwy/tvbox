@@ -213,28 +213,6 @@
    "speed": 5.029959
   },
   {
-   "key": "七夜",
-   "name": "🔎┃阿里┃七夜",
-   "type": 3,
-   "api": "csp_Dovx",
-   "searchable": 1,
-   "quickSearch": 1,
-   "changeable": 0,
-   "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
-   "speed": 0.000299
-  },
-  {
-   "key": "Zhaozy",
-   "name": "🔍┃阿里┃Zhaozy",
-   "type": 3,
-   "api": "csp_Zhaozy",
-   "searchable": 1,
-   "quickSearch": 1,
-   "changeable": 0,
-   "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$zhaoziyuan777$$$qqq111",
-   "speed": 0.000299
-  },
-  {
    "key": "鑫鑫影视",
    "name": "🥇┃鑫鑫┃App",
    "type": 3,
