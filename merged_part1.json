@@ -17,11 +17,11 @@
    "name": "📺︎┃电视┃点播",
    "playerType": 1,
    "type": 3,
-   "api": "./libs/tv/zb.min.js",
+   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/tv/zb.min.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "./libs/tv/zb.json"
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/tv/zb.json"
   },
   {
    "key": "玩偶",
@@ -178,8 +178,8 @@
    "quickSearch": 1,
    "changeable": 1,
    "playerType": "1",
-   "api": "./lib/drpy2.min.js",
-   "ext": "./lib/jp.js"
+   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/lib/drpy2.min.js",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/lib/jp.js"
   },
   {
    "key": "厂长",
@@ -242,8 +242,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/HCCX.jar",
-   "ext": "./libs/hccx/nkvlog.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/nkvlog.json"
   },
   {
    "key": "csp_Free",
@@ -253,8 +253,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/HCCX.jar",
-   "ext": "./libs/hccx/Free影视.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/Free影视.json"
   },
   {
    "key": "csp_Vidhub2",
@@ -264,7 +264,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/Panda.jar"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/Panda.jar"
   },
   {
    "key": "FreeOK",
@@ -274,7 +274,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/Panda.jar"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/Panda.jar"
   },
   {
    "key": "毛驴",
@@ -284,7 +284,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/Panda.jar"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/Panda.jar"
   },
   {
    "key": "csp_SC1080",
@@ -294,7 +294,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/Panda.jar"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/Panda.jar"
   },
   {
    "key": "csp_兄弟",
@@ -304,8 +304,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/HCCX.jar",
-   "ext": "./libs/hccx/兄弟.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/兄弟.json"
   },
   {
    "key": "csp_Ikanbot",
@@ -316,7 +316,7 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "[排序:lz线路,kuaik]",
-   "jar": "./libs/jar/XYQH.jar"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/XYQH.jar"
   },
   {
    "key": "csp_hanjulao",
@@ -326,8 +326,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/HCCX.jar",
-   "ext": "./libs/hccx/hanjulao.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/hanjulao.json"
   },
   {
    "key": "XYQH_JOJO",
@@ -337,8 +337,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/XYQH.jar",
-   "ext": "./libs/xyq/jojo.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/XYQH.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/xyq/jojo.json"
   },
   {
    "key": "csp_XYQHiker_VSYY",
@@ -348,8 +348,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/XYQH.jar",
-   "ext": "./libs/xyq/VS影院.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/XYQH.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/xyq/VS影院.json"
   },
   {
    "key": "csp_XYQ素白白",
@@ -359,8 +359,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/XYQH.jar",
-   "ext": "./libs/xyq/素白白.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/XYQH.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/xyq/素白白.json"
   },
   {
    "key": "csp_XYQ电影牛",
@@ -370,8 +370,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/XYQH.jar",
-   "ext": "./libs/xyq/电影牛.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/XYQH.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/xyq/电影牛.json"
   },
   {
    "key": "csp_Ysj",
@@ -548,7 +548,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/P4.jar"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/P4.jar"
   },
   {
    "key": "P4_哔嘀",
@@ -559,7 +559,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/P4.jar"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/P4.jar"
   },
   {
    "key": "P4_皮皮虾",
@@ -569,7 +569,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/P4.jar"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/P4.jar"
   },
   {
    "key": "csp_MeiJu69",
@@ -646,129 +646,129 @@
    "key": "js_007",
    "name": "🕵‍┃特工┃影视",
    "type": 3,
-   "api": "./libs/js/drpy2.min.js",
+   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/drpy2.min.js",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "./libs/js/007.js"
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/007.js"
   },
   {
    "key": "dr_低端",
    "name": "🔥┃低端┃Js",
    "type": 3,
-   "api": "./libs/js/drpy2.min.js",
+   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/drpy2.min.js",
    "searchable": 1,
    "playerType": 2,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "./libs/js/ddys.js"
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/ddys.js"
   },
   {
    "key": "js_骚火电影",
    "name": "🔥┃骚火┃影视",
    "type": 3,
-   "api": "./libs/js/drpy2.min.js",
+   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/drpy2.min.js",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "./libs/js/saohuo.js"
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/saohuo.js"
   },
   {
    "key": "dr_荐片",
    "name": "⏳┃荐片┃Js",
    "type": 3,
-   "api": "./libs/js/drpy2.min.js",
+   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/drpy2.min.js",
    "searchable": 1,
    "playerType": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "./libs/js/荐片.js"
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/荐片.js"
   },
   {
    "key": "js_Lib",
    "name": "🍲┃Lib┃影视",
    "type": 3,
-   "api": "./libs/js/drpy2.min.js",
+   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/drpy2.min.js",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "./libs/js/libvio.js"
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/libvio.js"
   },
   {
    "key": "js_czsapp",
    "name": "🏭️┃厂长┃Js",
    "type": 3,
-   "api": "./libs/js/drpy2.min.js",
+   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/drpy2.min.js",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "./libs/js/czspp.js"
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/czspp.js"
   },
   {
    "key": "js_大师兄",
    "name": "🐵┃师兄┃影视",
    "type": 3,
-   "api": "./libs/js/drpy2.min.js",
+   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/drpy2.min.js",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "./libs/js/大师兄影视.js"
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/大师兄影视.js"
   },
   {
    "key": "js_电影先生",
    "name": "🤵┃电影┃先生",
    "type": 3,
-   "api": "./libs/js/drpy2.min.js",
+   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/drpy2.min.js",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "./libs/js/电影先生.js"
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/电影先生.js"
   },
   {
    "key": "js_Xinsj",
    "name": "🐠┃视觉┃影院",
    "type": 3,
-   "api": "./libs/js/drpy2.min.js",
+   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/drpy2.min.js",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "./libs/js/xsj.js"
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/xsj.js"
   },
   {
    "key": "js_农民",
    "name": "👨‍🌾┃农民┃影视",
    "type": 3,
-   "api": "./libs/js/drpy2.min.js",
+   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/drpy2.min.js",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "./libs/js/nongmin.js"
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/nongmin.js"
   },
   {
    "key": "js_bzys",
    "name": "🌋┃B站┃影视",
    "type": 3,
-   "api": "./libs/js/drpy2.min.js",
+   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/drpy2.min.js",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "./libs/js/bzys.js"
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/bzys.js"
   },
   {
    "key": "js_555",
    "name": "🌟┃三五┃影视",
    "type": 3,
-   "api": "./libs/js/drpy2.min.js",
+   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/drpy2.min.js",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "./libs/js/555.js"
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/555.js"
   },
   {
    "key": "蚂蚁",
    "name": "🐜1080P┃蚂蚁",
    "type": 3,
-   "jar": "./libs/jar/c.jar",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/c.jar",
    "api": "csp_AppYsV2",
    "ext": "http://122.228.84.103:5822/api.php/app/",
    "searchable": 1,
@@ -783,7 +783,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 0,
-   "jar": "./libs/jar/c.jar",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/c.jar",
    "ext": "http://111.230.51.151:2323/api.php/app/"
   },
   {
@@ -793,7 +793,7 @@
    "api": "csp_AppYsV2",
    "searchable": 1,
    "quickSearch": 1,
-   "jar": "./libs/jar/c.jar",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/c.jar",
    "ext": "http://122.228.84.103:6117/api.php/app/"
   },
   {
@@ -804,7 +804,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 0,
-   "jar": "./libs/jar/c.jar",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/c.jar",
    "ext": "http://xiutan.shiyifacai.com/zuoan/api.php/app/"
   },
   {
@@ -815,8 +815,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/c.jar",
-   "ext": "./libs/c/乌鸦.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/c.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/c/乌鸦.json"
   },
   {
    "key": "cc_茶杯狐",
@@ -826,8 +826,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/c.jar",
-   "ext": "./libs/c/茶杯狐.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/c.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/c/茶杯狐.json"
   },
   {
    "key": "cc_热播之家",
@@ -837,8 +837,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/c.jar",
-   "ext": "./libs/c/热播之家.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/c.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/c/热播之家.json"
   },
   {
    "key": "cc_shdy2",
@@ -848,8 +848,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/c.jar",
-   "ext": "./libs/c/骚火2.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/c.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/c/骚火2.json"
   },
   {
    "key": "cc_黑狐",
@@ -859,8 +859,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/c.jar",
-   "ext": "./libs/c/黑狐.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/c.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/c/黑狐.json"
   },
   {
    "key": "cc_蛋蛋",
@@ -870,8 +870,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/c.jar",
-   "ext": "./libs/c/蛋蛋剧.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/c.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/c/蛋蛋剧.json"
   },
   {
    "key": "cc_相声",
@@ -881,8 +881,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/c.jar",
-   "ext": "./libs/c/相声.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/c.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/c/相声.json"
   },
   {
    "key": "cc_评书",
@@ -892,8 +892,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/c.jar",
-   "ext": "./libs/c/评书.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/c.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/c/评书.json"
   },
   {
    "key": "cc_03影院",
@@ -903,8 +903,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/c.jar",
-   "ext": "./libs/c/03yy.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/c.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/c/03yy.json"
   },
   {
    "key": "csp_蘑菇",
@@ -914,8 +914,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/HCCX.jar",
-   "ext": "./libs/hccx/蘑菇.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/蘑菇.json"
   },
   {
    "key": "csp_胖虎",
@@ -925,8 +925,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/HCCX.jar",
-   "ext": "./libs/hccx/胖虎.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/胖虎.json"
   },
   {
    "key": "csp_蛋蛋",
@@ -936,8 +936,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/HCCX.jar",
-   "ext": "./libs/hccx/蛋蛋影视.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/蛋蛋影视.json"
   },
   {
    "key": "csp_达龟",
@@ -947,8 +947,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/HCCX.jar",
-   "ext": "./libs/hccx/达达龟影视.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/达达龟影视.json"
   },
   {
    "key": "csp_黑狐",
@@ -958,8 +958,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/HCCX.jar",
-   "ext": "./libs/hccx/黑狐影视.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/黑狐影视.json"
   },
   {
    "key": "csp_奇优",
@@ -969,8 +969,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/HCCX.jar",
-   "ext": "./libs/hccx/奇优影院.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/奇优影院.json"
   },
   {
    "key": "csp_TVB",
@@ -980,8 +980,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/HCCX.jar",
-   "ext": "./libs/hccx/TVB云播.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/TVB云播.json"
   },
   {
    "key": "csp_骚火",
@@ -991,8 +991,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/HCCX.jar",
-   "ext": "./libs/hccx/骚火影视.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/骚火影视.json"
   },
   {
    "key": "csp_农民",
@@ -1002,8 +1002,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/HCCX.jar",
-   "ext": "./libs/hccx/农民影视.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/农民影视.json"
   },
   {
    "key": "csp_奇优",
@@ -1013,8 +1013,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/HCCX.jar",
-   "ext": "./libs/hccx/奇优影视.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/奇优影视.json"
   },
   {
    "key": "csp_疯狗",
@@ -1024,8 +1024,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/HCCX.jar",
-   "ext": "./libs/hccx/疯狗影视.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/疯狗影视.json"
   },
   {
    "key": "csp_万达",
@@ -1035,8 +1035,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/HCCX.jar",
-   "ext": "./libs/hccx/万达影视.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/万达影视.json"
   },
   {
    "key": "csp_爱看",
@@ -1046,8 +1046,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/HCCX.jar",
-   "ext": "./libs/hccx/爱看影视.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/爱看影视.json"
   },
   {
    "key": "csp_七新",
@@ -1057,8 +1057,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/HCCX.jar",
-   "ext": "./libs/hccx/七新影视.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/七新影视.json"
   },
   {
    "key": "csp_超前",
@@ -1068,8 +1068,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/HCCX.jar",
-   "ext": "./libs/hccx/超前B站.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/超前B站.json"
   },
   {
    "key": "csp_玖摇",
@@ -1079,8 +1079,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/HCCX.jar",
-   "ext": "./libs/hccx/4k剧院.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/4k剧院.json"
   },
   {
    "key": "csp_不卡",
@@ -1090,8 +1090,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/HCCX.jar",
-   "ext": "./libs/hccx/真不卡影视.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/真不卡影视.json"
   },
   {
    "key": "csp_午舞",
@@ -1101,8 +1101,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/HCCX.jar",
-   "ext": "./libs/hccx/五五影视.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/五五影视.json"
   },
   {
    "key": "csp_视觉",
@@ -1112,8 +1112,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/HCCX.jar",
-   "ext": "./libs/hccx/新视觉影视.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/新视觉影视.json"
   },
   {
    "key": "csp_圣城",
@@ -1123,8 +1123,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/HCCX.jar",
-   "ext": "./libs/hccx/圣城影视.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/圣城影视.json"
   },
   {
    "key": "csp_好戏",
@@ -1134,8 +1134,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/HCCX.jar",
-   "ext": "./libs/hccx/好戏影视.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/好戏影视.json"
   },
   {
    "key": "csp_七月",
@@ -1145,8 +1145,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/HCCX.jar",
-   "ext": "./libs/hccx/七月影视.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/七月影视.json"
   },
   {
    "key": "csp_日后",
@@ -1156,8 +1156,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/HCCX.jar",
-   "ext": "./libs/hccx/348影视.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/348影视.json"
   },
   {
    "key": "csp_土豪",
@@ -1167,8 +1167,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/HCCX.jar",
-   "ext": "./libs/hccx/土豪影视.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/土豪影视.json"
   },
   {
    "key": "csp_兔年",
@@ -1178,8 +1178,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/HCCX.jar",
-   "ext": "./libs/hccx/YYDS影视.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/YYDS影视.json"
   },
   {
    "key": "csp_苹果",
@@ -1189,8 +1189,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/HCCX.jar",
-   "ext": "./libs/hccx/苹果影视.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/苹果影视.json"
   },
   {
    "key": "csp_米爱",
@@ -1200,8 +1200,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/HCCX.jar",
-   "ext": "./libs/hccx/米爱影视.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/米爱影视.json"
   },
   {
    "key": "csp_非凡",
@@ -1211,8 +1211,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/HCCX.jar",
-   "ext": "./libs/hccx/非凡资源网.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/非凡资源网.json"
   },
   {
    "key": "csp_量子",
@@ -1222,8 +1222,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/HCCX.jar",
-   "ext": "./libs/hccx/量子资源网.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/量子资源网.json"
   },
   {
    "key": "csp_nkdyw",
@@ -1233,8 +1233,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/HCCX.jar",
-   "ext": "./libs/hccx/nkdyw.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/nkdyw.json"
   },
   {
    "key": "csp_555电影",
@@ -1244,8 +1244,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/HCCX.jar",
-   "ext": "./libs/hccx/555电影.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/555电影.json"
   },
   {
    "key": "csp_voflix",
@@ -1255,8 +1255,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/HCCX.jar",
-   "ext": "./libs/hccx/voflix.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/voflix.json"
   },
   {
    "key": "csp_nkvod",
@@ -1266,8 +1266,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/HCCX.jar",
-   "ext": "./libs/hccx/nkvod.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/nkvod.json"
   },
   {
    "key": "csp_lkvod",
@@ -1277,8 +1277,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/HCCX.jar",
-   "ext": "./libs/hccx/lkvod.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/HCCX.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/hccx/lkvod.json"
   },
   {
    "key": "js_4KHDR",
@@ -1287,38 +1287,38 @@
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 0,
-   "api": "./libs/js/drpy2.min.js",
-   "ext": "./libs/js/4khdr.js"
+   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/drpy2.min.js",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/4khdr.js"
   },
   {
    "key": "js_6V",
    "name": "✡️六维磁力┃Js",
    "type": 3,
-   "api": "./libs/js/drpy2.min.js",
+   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/drpy2.min.js",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "./libs/js/6V.js"
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/6V.js"
   },
   {
    "key": "js_磁力熊",
    "name": "🐻‍贝尔磁力┃Js",
    "type": 3,
-   "api": "./libs/js/drpy2.min.js",
+   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/drpy2.min.js",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "./libs/js/bear.js"
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/bear.js"
   },
   {
    "key": "js_酷吧",
    "name": "😎酷吧磁力┃Js",
    "type": 3,
-   "api": "./libs/js/drpy2.min.js",
+   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/drpy2.min.js",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "./lib/dr/kuba.js"
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/lib/dr/kuba.js"
   },
   {
    "key": "csp_MeijuMi",
@@ -1327,7 +1327,7 @@
    "api": "csp_MeijuMi",
    "searchable": 1,
    "quickSearch": 1,
-   "jar": "./libs/jar/xyq.jar",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/xyq.jar",
    "filterable": 1
   },
   {
@@ -1337,7 +1337,7 @@
    "api": "csp_Xunlei8",
    "searchable": 1,
    "quickSearch": 1,
-   "jar": "./libs/jar/xyq.jar",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/xyq.jar",
    "filterable": 1
   },
   {
@@ -1354,22 +1354,22 @@
    "name": "🥎┃格斗┃直播",
    "playerType": 1,
    "type": 3,
-   "api": "./libs/js/drpy2.min.js",
+   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/drpy2.min.js",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "./libs/js/武享吧.js"
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/武享吧.js"
   },
   {
    "key": "js_a8音乐",
    "name": "🎸┃奥迪┃音乐",
    "playerType": 1,
    "type": 3,
-   "api": "./libs/js/drpy2.min.js",
+   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/drpy2.min.js",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "./libs/js/a8音乐.js"
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/a8音乐.js"
   },
   {
    "key": "csp_Bili短剧",
@@ -1379,8 +1379,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/XYQH.jar",
-   "ext": "./libs/xyq/Bili短剧.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/XYQH.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/xyq/Bili短剧.json"
   },
   {
    "key": "csp_XBPQ_aoaotv",
@@ -1390,7 +1390,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "./libs/jar/XBPQ.jar",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/XBPQ.jar",
    "ext": {
     "分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",
     "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"
@@ -1408,7 +1408,7 @@
    "searchable": 1,
    "quickSearch": 0,
    "changeable": 0,
-   "ext": "./libs/bilibili.json"
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/bilibili.json"
   },
   {
    "key": "Biliych",
@@ -1422,17 +1422,17 @@
    "searchable": 1,
    "quickSearch": 0,
    "changeable": 0,
-   "ext": "./libs/biliych.json"
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/biliych.json"
   },
   {
    "key": "dr_童趣",
    "name": "🧗‍┃童趣┃播视",
    "type": 3,
-   "api": "./libs/js/drpy2.min.js",
+   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/drpy2.min.js",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "./libs/js/童趣.js"
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/童趣.js"
   },
   {
    "key": "csp_Bili",
@@ -1442,8 +1442,8 @@
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 1,
-   "jar": "./libs/jar/XBPQ.jar",
-   "ext": "./libs/bili.json"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/jar/XBPQ.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/bili.json"
   },
   {
    "key": "AList",
@@ -1452,7 +1452,7 @@
    "api": "csp_AList",
    "searchable": 1,
    "changeable": 0,
-   "ext": "./libs/js/alist1.json"
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/alist1.json"
   },
   {
    "key": "WebDAV",
@@ -1461,7 +1461,7 @@
    "api": "csp_WebDAV",
    "searchable": 1,
    "changeable": 0,
-   "ext": "./libs/js/webdav.json"
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/libs/js/webdav.json"
   },
   {
    "key": "csp_AList",
