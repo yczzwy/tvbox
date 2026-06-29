@@ -371,6 +371,7 @@ cctv9-HD,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001294
 安徽卫视-极清,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 安徽卫视高清,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=420000096
 山东卫视,http://123.130.84.106:8154/tsfile/live/0131_1.m3u8
+山东卫视-MCP,http://39.134.115.163:8083/PLTV/88888888/224/3221225951/index.m3u8
 山东教育,https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 山东生活,http://ls.qingting.fm/live/60260.m3u8
 广东卫视-HD,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001031/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -440,9 +441,6 @@ cctv9-HD,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001294
 湖南卫视高清,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&amp;protocol=http&amp;accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&amp;playtoken=ABCDEFGH&amp;programid=420000086
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 澳门卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8#https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
-烟台公共,http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda5341469.m3u8
-烟台新闻综合,http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e16.m3u8
-烟台经济科技,http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b56.m3u8
 石家｜文娱频道,http://222.223.41.27:8888/hls/24/index.m3u8
 石家｜新闻频道,http://222.223.41.27:8888/hls/23/index.m3u8
 秦皇｜昌黎综合,http://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
